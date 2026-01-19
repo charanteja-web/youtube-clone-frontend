@@ -30,6 +30,6 @@ Aspiring Full Stack Developer
 
 ## GitHub Profile
 
-(https://github.com/B Charan)
+(https://github.com/charanteja-web)
 
 
