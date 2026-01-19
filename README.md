@@ -30,6 +30,6 @@ Aspiring Full Stack Developer
 
 ## GitHub Profile
 
-(https://github.com/charan)
+(https://github.com/B Charan)
 
 
