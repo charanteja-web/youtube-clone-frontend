@@ -1,0 +1,57 @@
+.sidebar{
+    width:20%;
+    justify-content:space-between;
+    background: var(--card-bg);
+    position:sticky;
+    top:0;
+    z-index: 10;
+
+}
+.sortcut-links img{
+    width:30px;
+    margin-right:20px;
+}
+
+.side-links{
+    display: flex;
+    align-items:center;
+    margin-bottom:20px;
+    width:fit-content;
+    flex-wrap:wrap;
+    cursor: pointer;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+.sidebar hr{
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    width: 85%;
+}
+
+.subscribed-list h3{
+    font-size: 20px;
+    margin:20px 0;
+    color: #5a5a5a;
+    padding-left: 20px;
+}
+.small-sidebar{
+    width:5%;
+}
+
+.small-sidebar p{
+    display: none;
+}
+
+.small-sidebar h3{
+    display: none;
+}
+
+
+.side-links.active img{
+    padding-bottom: 2px;
+    border-bottom: 3px solid red;
+}
+  
+

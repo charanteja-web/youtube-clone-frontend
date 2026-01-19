@@ -1,0 +1,17 @@
+.play-container{
+    background: #f9f9f9;
+    padding-left:2%;
+    padding-right: 5%;
+    padding-top:20px;
+    padding-bottom:20px;
+    display: flex;
+    gap:24px;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+
+@media (max-width: 768px) {
+  .play-container {
+    flex-direction: column;
+  }
+}
