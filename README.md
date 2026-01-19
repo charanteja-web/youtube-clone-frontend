@@ -1,18 +1,35 @@
-# React + Vite
+# YouTube Clone – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive YouTube clone frontend built using modern web technologies. This project focuses on recreating the core user interface and layout of YouTube.
 
-Currently, two official plugins are available:
+# Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Responsive navbar and sidebar
+* Video listing layout
+* Search bar UI
+* Channel and video thumbnails
+* Clean and modern user interface
 
-## React Compiler
+# Technologies Used
+* React
+* JavaScript (ES6)
+* HTML5
+* CSS3
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Project Structure
+* Reusable React components
+* Organized assets and pages
+* Component-based architecture
 
-Note: This will impact Vite dev & build performances.
+## Purpose of the Project
 
-## Expanding the ESLint configuration
+This project was developed to strengthen frontend development skills, understand React component architecture, and practice building real-world user interfaces.
+## Author
+Charan
+Aspiring Full Stack Developer
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## GitHub Profile
+
+(https://github.com/charan)
+
+
